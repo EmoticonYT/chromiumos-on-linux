@@ -11,4 +11,4 @@ An automated Bash script to download and configure Chromium OS on Linux.
 Run this command to install:
 
 ```bash
-cd /tmp && mkdir -p chromiumosinstallation && cd chromiumosinstallation && curl -LO [https://raw.githubusercontent.com/EmoticonYT/chromiumos-on-linux/refs/heads/main/install.sh](https://raw.githubusercontent.com/EmoticonYT/chromiumos-on-linux/refs/heads/main/install.sh) && bash install.sh && rm -rf install.sh
+cd /tmp && mkdir -p chromiumosinstallation && cd chromiumosinstallation && curl -LO https://raw.githubusercontent.com/EmoticonYT/chromiumos-on-linux/refs/heads/main/install.sh && bash install.sh && rm -rf install.sh
